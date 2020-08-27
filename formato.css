@@ -1,0 +1,91 @@
+body{
+background-color: #9708CC;
+}
+h1{
+color:Black;
+font-weight:bold;
+font-family:"Algerian";
+font-size:90px;
+text-align:center;
+}
+IMG.imgcenter{
+display:block;
+margin-left:auto;
+margin-right:auto;
+border:none;
+}
+h4{
+color:white;
+font-family:"Times New Roman";
+font-size:40px;
+text-align:center;
+}
+h2{
+	color:white;
+	font-family:"Arial";
+	font-size:60px;
+	text-align:LEFT;
+}
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+p{
+	font-family:"comic sans Ms";
+	font-size:45px;
+	text-align:justify;
+}
+video{
+	width:800px;
+	height:640px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+hr{height:10px;
+background-color:red;
+width:90%;
+border-color:black;
+}
+H3{
+	color:Black;
+	font-weight:bold;
+	font-family:"times new roman";
+	font-size:50px;
+	text-align:justify;
+}
+h5{
+color:Blue;
+font-family:"Arial";
+font-size:40px;
+text-align:LEFT;
+}
+li{
+color:purple;
+font-family:"Arial";
+font-size:50px;
+text-align:LEFT;
+}
+table
+{
+	border-collapse: collapse;
+}
+td, th{
+	border:5xp solid red;
+	font-family:"Arial";
+	font-size:60px;
+}
+caption{
+	font-family:"Comic sans Ms";
+	font-size:60px;
+	text-align:justify;
+}
+H6{
+color:black;
+font-family:"Tahoma";
+font-size:50px;
+text-align:justify;
+}
